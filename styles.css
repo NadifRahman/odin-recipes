@@ -1,0 +1,29 @@
+/* CCSSSSSSSSSSS */
+
+* { /* BASE CSSER */
+    font-family: Helvetica, sans-serif;
+    color: purple;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+ul a, ol a { /* elements a, with parent list*/
+
+    color: black;
+
+}
+
+ul li, ol li {
+    color: red;
+}
+
+
+

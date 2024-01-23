@@ -1,0 +1,39 @@
+body {
+    background-color: #FEF5DA ;
+}
+
+.box {
+width: 1000px;
+margin: 0 auto;
+background-color: white;
+border-style: dotted;
+border-width: 5px;
+}
+
+.box .main {
+    text-align: center;
+    color: purple;
+}
+
+.list {
+    background-color: #fffff2;
+    width: 300px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+} 
+
+
+.list li {
+    text-align: center;
+    list-style: none;
+    
+}
+
+.home-image {
+    width: 500px;
+    height: auto;
+    padding: 1px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
